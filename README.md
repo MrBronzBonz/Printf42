@@ -1,5 +1,5 @@
 # Printf42
-study on libftprintf
+study on libftprintf o chiamatelo come volete
 
 prima di dare un' occhiata magari leggi questi consigli per riuscire da solo nell'impostare almeno il progetto:
 
