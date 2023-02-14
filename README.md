@@ -10,7 +10,7 @@ da stampare di printf e *QUALCOSA indica la stringa stessa che viene presa come 
 
 esempio:
 
-ft_printf("stampa %d e qui'stampa %s", numero, stringa);
+ft_printf("stampa %d e qui stampa %s", numero, stringa);
 
 la parte inclusa tra "" é il nostro *QUALCOSA e anche la nostra lista, mentre | numero | e | stringa | sono (ad esempio) due variabili definite nel main
 che servono come argomenti di printf (fanno parte dei ...).
